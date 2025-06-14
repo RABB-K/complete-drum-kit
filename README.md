@@ -11,11 +11,11 @@ A fun and interactive web-based drum machine that lets users play sounds using t
 - Clean design and mobile-friendly
 - Ready for sound integration (just add .wav files!)
 
-##  Next Steps (Coming Tomorrow)
+##  Next Steps (Coming soon)
 
-- 🔊 Add real drum sounds (kick, snare, hi-hat, etc.) using `<audio>` elements
-- 🖱️ Add mouse click support to work on mobile
-- 🎵 Map sound names to keys for better display (e.g., "Kick" for A)
+- Add real drum sounds (kick, snare, hi-hat, etc.) using `<audio>` elements
+- Add mouse click support to work on mobile
+- Map sound names to keys for better display (e.g., "Kick" for A)
 
 These features are part of the next development session.
 
